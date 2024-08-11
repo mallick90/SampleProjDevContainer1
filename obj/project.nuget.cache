@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fd7PZuESu8s=",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Sample\\SampleProjDevContainer\\SampleProjDevContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.7\\microsoft.netcore.app.runtime.linux-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.7\\microsoft.netcore.app.host.linux-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\gaurav.mallick\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.7\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+D:\Work\Sample\SampleProjDevContainer\obj\Debug\net8.0\PubTmp\Out\SampleProjDevContainer.exe
+D:\Work\Sample\SampleProjDevContainer\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Work\Sample\SampleProjDevContainer\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\Work\Sample\SampleProjDevContainer\obj\Debug\net8.0\PubTmp\Out\SampleProjDevContainer.dll
+D:\Work\Sample\SampleProjDevContainer\obj\Debug\net8.0\PubTmp\Out\SampleProjDevContainer.deps.json
+D:\Work\Sample\SampleProjDevContainer\obj\Debug\net8.0\PubTmp\Out\SampleProjDevContainer.runtimeconfig.json
+D:\Work\Sample\SampleProjDevContainer\obj\Debug\net8.0\PubTmp\Out\SampleProjDevContainer.pdb
